@@ -28,8 +28,8 @@ Este é um **Gerenciador de Senhas** simples desenvolvido em **Python**, com uma
 ## 📦 Instalação e Uso
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/ArmazenadorSenhas.git
-   cd ArmazenadorSenhas
+   git clone https://github.com/seu-usuario/gerenciador-de-senhas.git
+   cd gerenciador-de-senhas
    ```
 
 2. **Instale as dependências**:
@@ -55,5 +55,5 @@ Este é um **Gerenciador de Senhas** simples desenvolvido em **Python**, com uma
 Este projeto é de código aberto sob a licença **MIT**. Sinta-se livre para usá-lo e modificá-lo! 🛠
 
 ---
-👩‍💻 **Desenvolvido por Gabriela** 🚀
+👩‍💻 **Desenvolvido por Joca** 🚀
 
