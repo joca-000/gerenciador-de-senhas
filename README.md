@@ -46,11 +46,6 @@ Este é um **Gerenciador de Senhas** simples desenvolvido em **Python**, com uma
 - As senhas são armazenadas de forma **criptografada** para garantir segurança.
 - A senha mestre deve ser mantida segura, pois será usada para descriptografar os dados.
 
-## 📌 Melhorias Futuras
-- 🌍 Implementar um gerenciador de senhas baseado na web.
-- 📲 Criar uma versão mobile do aplicativo.
-- 🗃 Melhorar a interface gráfica com **PyQt**.
-
 ## 📄 Licença
 Este projeto é de código aberto sob a licença **MIT**. Sinta-se livre para usá-lo e modificá-lo! 🛠
 
